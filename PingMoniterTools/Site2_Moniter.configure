@@ -1,0 +1,22 @@
+{
+	"WebHookURL":"https://oapi.dingtalk.com/robot/send?access_token=b022ab17953bf58a0b68a3eff47d2af087324738c4e9fd5eab1f9ff87e77101d",
+	"WebHookDescribe":"Site2",
+	"MaxDelay":200,
+	"MaxDelayPercent":40,
+	"MaxTimeoutPercent":10,
+	"WarningTimeoutSec":60,
+	"StatisticsInterval":300,
+	"MoniterInfo":
+	[
+		{
+			"Address":"47.52.34.99",
+			"Timeout":1000,
+			"Interval":1000
+		},
+		{
+			"Address":"47.91.166.156",
+			"Timeout":1000,
+			"Interval":1000
+		}
+	]
+}
